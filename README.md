@@ -15,4 +15,4 @@ Docset is universal and its works on
 License
 ----
 
-GNU General Public License v2.0
+GNU General Public License v3.0
